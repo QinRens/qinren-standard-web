@@ -79,7 +79,7 @@ LICENSE					# 工程的license文件
 ```library/```文件夹下包含了该工程的全部函数和类模块，遵从模块化、封装化的规则。
 除了代码部分，需要包含```library/README.md```、```library/name_package1/README.md```等文件，
 说明文件层级信息，以及各个包实现功能。
-具体规范参照[这里](#2-libraryapi)。
+具体规范参照[这里](#libraryapi)。
 
 #### 6. data/
 
